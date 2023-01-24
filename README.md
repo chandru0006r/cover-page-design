@@ -108,5 +108,5 @@ footer{
     padding-right:60px;
   }
   ```
-#Result:
+# Result:
 Thus the program to develop a website to display the cover page design of a book is done.
